@@ -1,0 +1,16 @@
+./data/JPEGImages/cat.6.jpg
+./data/JPEGImages/dog.5.jpg
+./data/JPEGImages/cat.9.jpg
+./data/JPEGImages/cat.8.jpg
+./data/JPEGImages/cat.10.jpg
+./data/JPEGImages/cat.3.jpg
+./data/JPEGImages/dog.4.jpg
+./data/JPEGImages/cat.1.jpg
+./data/JPEGImages/dog.8.jpg
+./data/JPEGImages/cat.5.jpg
+./data/JPEGImages/dog.1.jpg
+./data/JPEGImages/cat.2.jpg
+./data/JPEGImages/dog.3.jpg
+./data/JPEGImages/dog.7.jpg
+./data/JPEGImages/dog.9.jpg
+./data/JPEGImages/dog.6.jpg

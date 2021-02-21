@@ -1,0 +1,4 @@
+./data/JPEGImages/dog.10.jpg
+./data/JPEGImages/cat.7.jpg
+./data/JPEGImages/cat.4.jpg
+./data/JPEGImages/dog.2.jpg

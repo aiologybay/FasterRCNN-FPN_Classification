@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>cat.5.jpg</filename>
+	<path>/home/lq/Desktop/github/FasterRCNN-FPN_Classification/data/JPEGImages/cat.5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>175</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat_1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>50</ymin>
+			<xmax>121</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+jpg_name                 real_cls                          pred_cls                          score       result
+cat.4.jpg                cat                               cat                               0.426       True 
+cat.7.jpg                cat                               cat                               0.406       True 
+dog.10.jpg               dog                               cat                               0.425       False
+dog.2.jpg                dog                               cat                               0.394       False
